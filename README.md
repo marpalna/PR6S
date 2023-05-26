@@ -1,7 +1,4 @@
-# PR6Slab1
 
----
-title: "pr1"
 format: html
 editor: visual
 ---
